@@ -1,0 +1,7 @@
+.recipe-featured .acf-label,
+.recipe-featured .acf-label label { display: inline; }
+
+div.acf-input {
+	float:left;
+	margin-top: -4px;
+}
